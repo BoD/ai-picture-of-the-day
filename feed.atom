@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AI picture of the day</title>
+  <id>https://jraf.org/ai-picture-of-the-day/feed.atom</id>
+  <updated>2026-05-15T00:00:00Z</updated>
+
+  <entry>
+    <title>2026-05-15</title>
+    <id>https://jraf.org/ai-picture-of-the-day/images/2026-05-15.jpg</id>
+    <updated>2026-05-15T00:00:00Z</updated>
+    <link
+      rel="enclosure"
+      type="image/png"
+      href="https://jraf.org/ai-picture-of-the-day/images/2026-05-15.jpg" />
+    <content type="html">
+      <![CDATA[
+        <img src="https://jraf.org/ai-picture-of-the-day/images/2026-05-15.jpg" />
+      ]]>
+    </content>
+  </entry>
+</feed>
