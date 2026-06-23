@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AI picture of the day</title>
   <id>https://jraf.org/ai-picture-of-the-day/feed.atom</id>
-  <updated>2026-06-23T00:00:00Z</updated>
+  <updated>2026-06-24T00:00:00Z</updated>
 
   <entry>
-    <title>2026-06-23</title>
-    <id>https://jraf.org/ai-picture-of-the-day/images/2026-06-23.jpg</id>
-    <updated>2026-06-23T00:00:00Z</updated>
+    <title>2026-06-24</title>
+    <id>https://jraf.org/ai-picture-of-the-day/images/2026-06-24.jpg</id>
+    <updated>2026-06-24T00:00:00Z</updated>
     <link
       rel="enclosure"
       type="image/png"
-      href="https://jraf.org/ai-picture-of-the-day/images/2026-06-23.jpg" />
+      href="https://jraf.org/ai-picture-of-the-day/images/2026-06-24.jpg" />
     <content type="html">
       <![CDATA[
-        <img src="https://jraf.org/ai-picture-of-the-day/images/2026-06-23.jpg" />
+        <img src="https://jraf.org/ai-picture-of-the-day/images/2026-06-24.jpg" />
       ]]>
     </content>
   </entry>
